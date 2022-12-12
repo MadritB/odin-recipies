@@ -1,0 +1,42 @@
+*
+{
+    background-color: goldenrod;
+}
+
+.heading
+{
+    font-family: "Brush Script MT", Helvetica, "Times New Roman";
+    color: gold;
+    background-color: palevioletred;
+}
+.heading#main
+{
+    font-size: 64px;
+    text-align: center;
+}
+
+.heading.secondary
+{
+    font-size: 48px;
+}
+
+.heading#ingredients,
+.heading#steps
+{
+    font-size: 32px;
+}
+
+.text
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    background-color: goldenrod;
+    color: white;
+}
+
+.text.ingredients,
+.text.steps
+{
+    font-size: 20px;
+    color: purple;
+}
